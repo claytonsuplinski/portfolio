@@ -1654,6 +1654,14 @@
 		padding-top:800px;padding-bottom:800px;
 	}
 	
+	.image-caption-big{
+		top:40% !important;
+	}
+	
+	.image-caption-new-line{
+		margin-top:3vw;
+	}
+	
 	.image{
 		position:relative;
 		overflow:hidden;
