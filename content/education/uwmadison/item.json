@@ -1,0 +1,34 @@
+{
+	"title": "University of Wisconsin-Madison",
+	"duration": {
+		"start": "9/6/2011",
+		"end": "12/21/2014"
+	},
+	"city": "Madison, Wisconsin",
+	"majors": "Computer Science, Astronomy-Physics, Statistics",
+	"certificates": "Mathematics, Physics",
+	"courses": [
+		{"label": 559, "name": "Computer Graphics"},
+		{"label": 564, "name": "Database Management Systems"},
+		{"label": 407, "name": "Mobile Systems and Applications"},
+		{"label": 471, "name": "Computational Statistics"},
+		{"label": 333, "name": "Applied Regression Analysis"},
+		{"label": 424, "name": "Statistical Experimental Design"},
+		{"label": 435, "name": "Cryptography"},
+		{"label": 540, "name": "Artificial Intelligence"},
+		{"label": 351, "name": "Nonparametric Statistics"},
+		{"label": 375, "name": "Honors Linear Algebra"},
+		{"label": 376, "name": "Honors Differential Equations"},
+		{"label": 531, "name": "Quantum Mechanics"},
+		{"label": 322, "name": "Electromagnetic Fields"},
+		{"label": 321, "name": "Electric Circuits and Electronics"},
+		{"label": 311, "name": "Mechanics"},
+		{"label": 340, "name": "Solar System Astrophysics"},
+		{"label": 310, "name": "Stellar Astrophysics"},
+		{"label": 577, "name": "Algorithms"},
+		{"label": 352, "name": "Digital System Fundamentals"},
+		{"label": 415, "name": "Thermal Physics"},
+		{"label": 327, "name": "Data Analysis with R"},
+		{"label": 367, "name": "Data Structures"}
+	]
+}

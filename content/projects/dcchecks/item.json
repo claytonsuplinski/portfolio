@@ -1,0 +1,19 @@
+{
+	"title": "DC Checks",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "6/11/2015",
+		"end": "7/29/2015"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "Angular / Bootstrap / Python",
+	"skills": [
+		"Angular", "HTML5", "CSS", "Bootstrap", "Python", "JavaScript"
+	],
+	"description": [
+		"This page maintains and provides an interface for the employees of the Data Center to efficiently perform hourly quality checks.",
+		"To help speed up these hourly checks, this page has been optimized to the Data Center workflow with effective uses of iframes, buttons, and input fields.",
+		"In addition to the interface, the backend to this page is easy to work with and allows for automated checks."
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"title": "First Person Shooter",
+	"link": "",
+	"github": "https://github.com/claytonsuplinski/FirstPersonShooter",
+	"duration": {
+		"start": "12/21/2013",
+		"end": "7/16/2014"
+	},
+	"location": "Independent Project",
+	"main_skills": "C++ / OpenGL / 3ds Max",
+	"skills": [
+		"C++", "OpenGL", "3ds Max", "GLSL", "Paint.NET"
+	],
+	"description": [
+		"First Person Shooter is a simple 3D video game where you take control of the yellow team and try to remain as the last team standing.",
+		"The AI soldiers are capable of navigating through the various environments and can be very lethal in close combat, depending on the difficulty level.",
+		"With both guns and grenades as weapons and various obstacles scattered throughout the maps, there is a significant amount of strategy required to beat the opposing teams."
+	]
+}

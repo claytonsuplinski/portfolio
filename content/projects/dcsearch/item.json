@@ -1,0 +1,19 @@
+{
+	"title": "DC Search",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "7/15/2015",
+		"end": "7/16/2015"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "HTML5 / CSS / jQuery",
+	"skills": [
+		"HTML5", "CSS", "JavaScript", "jQuery", "AJAX"
+	],
+	"description": [
+		"DC Search is a simple, but useful utility that essentially turned into a search engine for the Data Center.",
+		"By taking either keywords or web addresses as search terms, this page helps employees in the Data Center find the webpages they're looking for in a quick and easy way.",
+		"This page provides an excellent compliment to the DC Checks pages and helps to condense information for new employees."
+	]
+}

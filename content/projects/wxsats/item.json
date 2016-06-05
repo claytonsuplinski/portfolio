@@ -1,0 +1,19 @@
+{
+	"title": "WxSatS",
+	"link": "https://qcweb.ssec.wisc.edu/wxsats/",
+	"duration": {
+		"start": "3/8/2014",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "WebGL / JavaScript / GLSL",
+	"skills": [
+		"JavaScript", "WebGL", "GLSL", "HTML5", "CSS", "jQuery", "3ds Max", "Paint.NET", "AJAX"
+	],
+	"description": [
+		"WXSATS is a WebGL-based 3D visualization of all the satellites that transmit data to the Space Science and Engineering Center.", 
+		"This project has become a useful educational tool at the SSEC as it accurately illustrates real time satellite movements and provides hourly imagery of the Earth.", 
+		"Over time it has evolved into a larger project encompassing other planets, moons, stars, and asteroids.", 
+		"Additionally, WXSATS has provided outlets for collaboration within the building by providing effective ways to illustrate events in the news and display satellites orbiting other planets."
+	]
+}

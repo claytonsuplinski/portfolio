@@ -1,0 +1,20 @@
+{
+	"title": "Cow Catchers",
+	"link": "http://claytonsuplinski.github.io/CowCatchers/",
+	"github": "",
+	"duration": {
+		"start": "1/4/2015",
+		"end": "6/18/2015"
+	},
+	"location": "Independent Project",
+	"main_skills": "Unity / 3ds Max / C#",
+	"skills": [
+		"Unity", "3ds Max", "C#", "Paint.NET"
+	],
+	"description": [
+		"Cow Catchers is a video game created with the Unity game engine where the user flys around in a ufo and tries to collect as many cows as possible before time runs out.",
+		"While doing so, the user must avoid hitting any terrain or obstacles or else the spaceship will explode on contact.",
+		"There are several playable maps in the game, which allows the user to collect cows in varying levels of difficulty based on the environment.",
+		"Additionally the web version maintains global high scores for each level, which gives each user a goal to aim for when collecting cows."
+	]
+}

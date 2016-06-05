@@ -1,0 +1,20 @@
+{
+	"title": "Atomic GL",
+	"link": "http://claytonsuplinski.github.io/AtomicGL/",
+	"github": "https://github.com/claytonsuplinski/AtomicGL",
+	"duration": {
+		"start": "7/14/2015",
+		"end": "9/16/2015"
+	},
+	"location": "Independent Project",
+	"main_skills": "WebGL / JavaScript / HTML5",
+	"skills": [
+		"WebGL", "JavaScript", "HTML5", "CSS", "jQuery", "Bootstrap"
+	],
+	"description": [
+		"AtomicGL is a webpage designed to show what various atoms from the periodic table look like in an interactive 3D space.",
+		"These atoms are algorithmically generated and allow the user to either select atoms from a dropdown list or create custom atoms by adjusting the number of protons, neutrons, and electrons.",
+		"All the components of the atoms are color-coded by particle type and energy level to help illustrate fundamental concepts in chemistry.",
+		"The WebGL backend created in this program was later expanded on in the Planetary Terrains and War Zone Tracker projects"
+	]
+}

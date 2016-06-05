@@ -1,0 +1,19 @@
+{
+	"title": "Dynamic Terrains",
+	"link": "",
+	"github": "https://github.com/claytonsuplinski/Dynamic_Terrain",
+	"duration": {
+		"start": "7/16/2014",
+		"end": "9/19/2014"
+	},
+	"location": "Independent Project",
+	"main_skills": "C++ / OpenGL / 3ds Max",
+	"skills": [
+		"C++", "OpenGL", "3ds Max", "GLSL", "Paint.NET"
+	],
+	"description": [
+		"This OpenGL project procedurally generates large-scale environments with elements placed in them such as buildings, bridges, and trees.",
+		"Through different optimization techniques, this program is able to manage environments that scale to the size of some small countries.",
+		"In addition to the terrain, different shader and rendering techniques were used to create the water, clouds, and horizon to enhance the overall experience."
+	]
+}

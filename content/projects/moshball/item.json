@@ -1,0 +1,20 @@
+{
+	"title": "Moshball",
+	"link": "",
+	"github": "https://github.com/claytonsuplinski/Moshball",
+	"duration": {
+		"start": "3/25/2013",
+		"end": "5/10/2013"
+	},
+	"location": "Computer Graphics (CS 559)",
+	"main_skills": "C++ / OpenGL / GLSL",
+	"skills": [
+		"C++", "OpenGL", "GLSL", "Paint.NET"
+	],
+	"description": [
+		"Moshball is a video game where the user must control a ball and collide with all the other balls before all their timers run out.",
+		"This project has multiple other game modes where the user can play in different environments with different rules.",
+		"In some settings, the user must collect as many objects as possible while the game speeds up.",
+		"And to make things more difficult, there are options to add in a foe who will chase you throughout the map."
+	]
+}

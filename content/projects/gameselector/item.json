@@ -1,0 +1,19 @@
+{
+	"title": "Football Game Selector",
+	"link": "http://claytonsuplinski.github.io/football_game_selector/",
+	"github": "https://github.com/claytonsuplinski/football_game_selector",
+	"duration": {
+		"start": "7/27/2015",
+		"end": "8/15/2015"
+	},
+	"location": "Independent Project",
+	"main_skills": "Bootstrap / JavaScript / HTML5",
+	"skills": [
+		"Bootstrap", "JavaScript", "HTML5", "CSS", "jQuery"
+	],
+	"description": [
+		"The Football Game Selector is a mobile-friendly webpage designed to allow the user to pick who they think will win each football game throughout the season and make their pick for the championship.",
+		"By taking a csv file with a schedule in it, this page is able to derive the league standings and playoff seeds based on the user's picks.",
+		"This page is very portable and versatile as it is written in object-oriented javascript and has no server-side dependencies."
+	]
+}

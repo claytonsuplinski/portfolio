@@ -1,0 +1,18 @@
+{
+	"title": "Akatsuki",
+	"duration": {
+		"start": "1/21/2016",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "C++ / JavaScript / SPICE Data",
+	"skills": [
+		"C++", "JavaScript", "WebGL", "SPICE Data", "Bash"
+	],
+	"description": [
+		"By working with some SPICE Data kernels for the Venus orbiter Akatsuki, I've been able to write C++ programs to calculate different quantites for the Japanese satellite.",
+		"With help from the built-in SPICE library, one of the programs is able to calculate occultations of the satellite by Venus to determine optimal times for data transmission.",
+		"Along with this, another program works with the SPICE kernels to derive coordinates of Akatsuki along its orbit over a given time range.",
+		"Using these results, Akatsuki has become an interesting addition to WxSatS and has allowed that project to expand to other planets in the Solar System."
+	]
+}

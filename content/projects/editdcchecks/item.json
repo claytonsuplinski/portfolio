@@ -1,0 +1,19 @@
+{
+	"title": "Edit DC Checks",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "7/9/2015",
+		"end": "7/16/2015"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "Angular / Bootstrap / Python",
+	"skills": [
+		"Angular", "Bootstrap", "Python", "JavaScript", "HTML5", "CSS", "jQuery", "AJAX"
+	],
+	"description": [
+		"This webpage was designed to easily maintain and update the checks performed hourly at the Data Center.",
+		"By working in unison with the checks page, it provides an efficient and concise way to maintain a daily workflow.",
+		"The interface for this page is mobile-friendly and easy to distribute to multiple machines."
+	]
+}

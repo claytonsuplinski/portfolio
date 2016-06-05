@@ -1,0 +1,19 @@
+{
+	"title": "Planetary Terrains",
+	"link": "http://claytonsuplinski.github.io/planetary_terrains/",
+	"github": "https://github.com/claytonsuplinski/planetary_terrains",
+	"duration": {
+		"start": "8/4/2015",
+		"end": "9/22/2015"
+	},
+	"location": "Independent Project",
+	"main_skills": "WebGL / JavaScript / Bootstrap",
+	"skills": [
+		"WebGL", "JavaScript", "Bootstrap", "HTML5", "CSS", "jQuery", "C++"
+	],
+	"description": [
+		"Planetary Terrains is a 3D WebGL page to illustrate the variations in terrains of several planets and moons in the Solar System.",
+		"These terrains are based on black and white heightmaps, which were processed through a C++ program and rendered in the browser with JavaScript.",
+		"This independent project helped to build on the WebGL javascript backend from the AtomicGL page and was improved on in the War Zone Tracker."
+	]
+}

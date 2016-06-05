@@ -1,0 +1,20 @@
+{
+	"title": "XCD Monitor",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "2/5/2016",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "Python / SQL / JavaScript",
+	"skills": [
+		"JavaScript", "Python", "SQL", "HTML5", "CSS", "jQuery", "Bootstrap", "AJAX"
+	],
+	"description": [
+		"The XCD Monitor is a multifaceted webpage used to provide real time stats on incoming grib, point, and radar satellite data.",
+		"It relies on several python scripts to harvest information from databases or raw text files and store the relevant data in json files for the webpage to use, allowing for quick and up-to-date displays.",
+		"This project utilizes the same javascript backend from the SNPP Monitor page.",
+		"Automated analysis is available on the XCD Monitor for certain products through confidence intervals based on previous results."
+	]
+}

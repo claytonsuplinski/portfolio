@@ -1,0 +1,16 @@
+{
+	"title": "SSEC",
+	"duration": {
+		"start": "3/6/2012",
+		"end": "PRESENT"
+	},
+	"subtitle": "Space Science and Engineering Center",
+	"position": "Associate Systems Programmer",
+	"city": "Madison, Wisconsin",
+	"description": [
+		"Focused on projects to help increase productivity and the overall experience in the data center.",
+		"Developed software and webpages for data visualization, satellite imagery, and 3D interactive displays.",
+		"Created projects to help process satellite data, automate quality checks, and monitor live data feeds.",
+		"Worked on several projects outside of the data center including the visualization of the Japanese Venus Orbiter Akatsuki and the EarthNow Quarterly Climate Digest."
+	]
+}

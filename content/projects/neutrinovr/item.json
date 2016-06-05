@@ -1,0 +1,19 @@
+{
+	"title": "Neutrino VR",
+	"link": "http://www.news.wisc.edu/22713",
+	"duration": {
+		"start": "6/17/2013",
+		"end": "8/30/2013"
+	},
+	"location": "Living Environments Laboratory",
+	"main_skills": "C++ / OpenGL / Syzygy",
+	"skills": [
+		"C++", "OpenGL", "Syzygy"
+	],
+	"description": [
+		"This project was conducted during a summer internship and involved creating a 3D virtual reality visualization of the IceCube array of neutrino detectors in Antarctica.",
+		"Optimized to run in an immersive VR environment, this project provides a unique viewpoint beneath the ice.",
+		"By using virtual reality and 3D techniques, the user is able to visualize the science behind the detector array and see the neutrinos make their way through the ice over time.",
+		"The project contains high amount of detail in the detectors, photon paths, and the facility up on the surface."
+	]
+}

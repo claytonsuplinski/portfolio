@@ -1,0 +1,22 @@
+{
+	"title": "Preble High School",
+	"duration": {
+		"start": "9/6/2007",
+		"end": "6/12/2011"
+	},
+	"city": "Green Bay, Wisconsin",
+	"gpa": "4.00",
+	"act": "33",
+	"courses": [
+		{"name": "AP Calculus BC"},
+		{"name": "AP Physics C"},
+		{"name": "AP Chemistry"},
+		{"name": "AP Statistics"},
+		{"name": "AP US History"},
+		{"name": "AP Psychology"},
+		{"name": "AP Macroeconomics"},
+		{"name": "AP US Government"},
+		{"name": "Advanced Biology"},
+		{"name": "Spanish IV"}
+	]
+}

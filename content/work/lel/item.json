@@ -1,0 +1,16 @@
+{
+	"title": "LEL",
+	"duration": {
+		"start": "6/1/2013",
+		"end": "9/1/2013"
+	},
+	"subtitle": "Living Environments Laboratory",
+	"position": "Research Programmer",
+	"city": "Madison, Wisconsin",
+	"description": [
+		"Worked on a 3D interactive visualization of neutrino activity from the IceCube Neutrino Observatory in Antarctica.",
+		"Created interactive displays of neutrinos colliding with the detectors over time.",
+		"Manipulated large datasets to visualize photon paths and arrays of neutrino detectors in OpenGL.",
+		"Optimized the project to run effectively and smoothly in the CAVE (a six-sided immersive virtual reality environment)."
+	]
+}

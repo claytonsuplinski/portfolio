@@ -1,0 +1,20 @@
+{
+	"title": "Climate Digest",
+	"link": "https://www.youtube.com/user/EarthNowCIMSS/videos",
+	"github": "",
+	"duration": {
+		"start": "1/20/2016",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "After Effects / Photoshop / Bash",
+	"skills": [
+		"After Effects", "Photoshop", "Bash"
+	],
+	"description": [
+		"The EarthNow Climate Digest is a quarterly report that focuses on recent weather activity.",
+		"One part of the project is to create a youtube video to illustrate global trends in temperature, precipitation, and snow cover.",
+		"In association with this, there is also the Science on a Sphere part which projects the weather data on a physical sphere to give unique perspectives for educational demonstrations.",
+		"My involvement with this ongoing project began with the December 2015 Climate Digest."
+	]
+}

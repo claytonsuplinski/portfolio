@@ -1,0 +1,20 @@
+{
+	"title": "VR Ski Simulator",
+	"link": "http://claytonsuplinski.github.io/VRSkiSimulator/",
+	"duration": {
+		"start": "9/2/2014",
+		"end": "12/12/2014"
+	},
+	"location": "Independent Study (DS 699)",
+	"main_skills": "Unity / 3ds Max / C#",
+	"skills": [
+		"Unity", "3ds Max", "C#", "Paint.NET"
+	],
+	"description": [
+		"In my final semester as an undergrad at UW Madison, I created this virtual reality ski simulator as an independent study project.",
+		"There are two versions of this program, the first completed by October and the second completed in December.",
+		"The first is a simpler and shorter ski hill, designed to showcase the program at the 2014 Wisconsin Science Festival.",
+		"The second is a Christmas-themed longer run, featuring more special effects, moving obstacles, and more intricate jumps.",
+		"Both versions were created using the Unity game engine and use the Microsoft Kinect as a controller."
+	]
+}

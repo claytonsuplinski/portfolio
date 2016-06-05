@@ -1,0 +1,20 @@
+{
+	"title": "3D Datacenter",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "11/17/2014",
+		"end": "8/25/2015"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "WebGL / Three.JS / JavaScript",
+	"skills": [
+		"WebGL", "Three.JS", "JavaScript", "jQuery", "HTML5", "CSS"
+	],
+	"description": [
+		"This WebGL project was developed as a quick reference utility at the Data Center.",
+		"With the ability to visualize the machines in the Data Center in a 3D space, this program allows users to quickly find what they are looking for.",
+		"By allowing the user to search for machines or racks by name, it turns a tedious task into a trivial one.",
+		"And by having an accurate depiction of the room, the user is able to gain a strong sense for the location of the desired machine."
+	]
+}

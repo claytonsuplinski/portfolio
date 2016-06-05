@@ -1,0 +1,15 @@
+{
+	"title": "St. Bernard Catholic School",
+	"duration": {
+		"start": "9/6/1998",
+		"end": "6/12/2007"
+	},
+	"city": "Green Bay, Wisconsin",
+	"gpa": "~ 3.90",
+	"courses": [
+		{"name": "Concert Band (5th-8th grades)"},
+		{"name": "Math Counts (6th-8th grades)"},
+		{"name": "Soccer (7th-8th grades)"},
+		{"name": "Football (6th grade)"}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"title": "APFT Toolbox",
+	"link": "https://www.youtube.com/watch?v=RRbd1OhdwTc",
+	"github": "https://github.com/claytonsuplinski/APFT",
+	"duration": {
+		"start": "1/21/2014",
+		"end": "5/9/2014"
+	},
+	"location": "Mobile Systems and Applications (CS 407)",
+	"main_skills": "Android / Java / XML",
+	"skills": [
+		"Java", "Android", "XML"
+	],
+	"description": [
+		"The APFT Toolbox was developed as an Android application to help ROTC cadets manage their training progress.",
+		"A major part of the ROTC program is the Army Physical Fitness Test, and this app helps to minimize the tedious parts of recording these results.",
+		"This app maintains a database of cadets who each have their push-up, situp, and running stats.",
+		"Those supervising the tests are able to manage these stats through the administrator mode and provide feedback through the leaderboard and cadet profiles."
+	]
+}

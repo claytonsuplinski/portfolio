@@ -1,0 +1,19 @@
+{
+	"title": "Inventory Dashboard",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "1/16/2015",
+		"end": "12/17/2015"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "Python / SQL / JavaScript",
+	"skills": [
+		"Python", "SQL", "JavaScript", "HTML5", "CSS", "jQuery", "AJAX", "Bootstrap"
+	],
+	"description": [
+		"The Inventory Dashboard is a webpage designed to manage the satellite inventory at the SSEC.",
+		"This page automatically checks the inventory database for missing images, reports it to the user, and allows them to update the inventory webpage accordingly.",
+		"Several needs were met by this page as it reduced the amount of manual work and simplified the role for new people checking the inventory."
+	]
+}

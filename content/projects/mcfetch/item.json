@@ -1,0 +1,20 @@
+{
+	"title": "McFETCH",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "4/1/2016",
+		"end": "4/8/2016"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "HTML5 / CSS / jQuery",
+	"skills": [
+		"HTML5", "CSS", "JavaScript", "jQuery", "Bootstrap"
+	],
+	"description": [
+		"McFETCH is a web-based solution to easily and effectively access satellite data.",
+		"This project is built off of the McIDAS software and allows for diverse and robust searches on a large collection of data.",
+		"Through this user interface, the client is able to easily and intuitively construct detailed queries on the McFETCH system.",
+		"Additionally, the user is able to download this data and can track his or her usage stats through this webpage."
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"title": "Training",
+	"events": [
+		{"name": "NASA SPICE Training Workshop", "label": "April 2016"},
+		{"name": "Unidata Python Workshop", "label": "July 2015"},
+		{"name": "McIDAS-X Scripting in Python", "label": "June 2015"}
+	]
+}

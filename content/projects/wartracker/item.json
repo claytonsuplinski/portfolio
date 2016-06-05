@@ -1,0 +1,19 @@
+{
+	"title": "War Zone Tracker",
+	"link": "http://claytonsuplinski.github.io/war_zone_tracker/",
+	"github": "https://github.com/claytonsuplinski/war_zone_tracker",
+	"duration": {
+		"start": "8/13/2015",
+		"end": "9/29/2015"
+	},
+	"location": "Independent Project",
+	"main_skills": "WebGL / JavaScript / GLSL",
+	"skills": [
+		"JavaScript", "WebGL", "GLSL", "HTML5", "CSS", "jQuery", "3ds Max", "Bootstrap", "Paint.NET"
+	],
+	"description": [
+		"The War Zone Tracker is an interactive 3D webpage for observing where battles took place throughout various wars in world history.",
+		"By taking advantage of different techniques with GLSL and framebuffers, the user is able to click on the 3D spheres to obtain more information about the individual battles.",
+		"This independent project helped to build on WebGL javascript backends from the planetary terrains and AtomicGL pages to allow for more functionality and productivity in future projects."
+	]
+}

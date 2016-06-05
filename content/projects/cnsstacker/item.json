@@ -1,0 +1,19 @@
+{
+	"title": "CNS Depression Stacker",
+	"link": "http://claytonsuplinski.github.io/cns_depression_stacker/",
+	"github": "https://github.com/claytonsuplinski/cns_depression_stacker",
+	"duration": {
+		"start": "6/26/2015",
+		"end": "8/1/2015"
+	},
+	"location": "Independent Project",
+	"main_skills": "HTML5 / CSS / Google API",
+	"skills": [
+		"HTML5", "CSS", "Google API", "JavaScript", "jQuery", "AJAX", "Bootstrap"
+	],
+	"description": [
+		"The CNS Depression Stacker is a simple utility for tracking medications of patients in a hospital.",
+		"For patients taking multiple medications simultaneously, health risks may arise and this page identifies such problems.",
+		"By automatically tracking these high risk times, the CNS Depression Stacker helps keep patients safe and simplify workflows for the medical staff."
+	]
+}

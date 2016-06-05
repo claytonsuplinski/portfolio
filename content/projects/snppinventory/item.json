@@ -1,0 +1,19 @@
+{
+	"title": "SNPP Inventory",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "4/28/2016",
+		"end": "5/12/2016"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "Python / SQL / CSS",
+	"skills": [
+		"Python", "SQL", "CSS", "HTML5", "JavaScript", "jQuery", "Bootstrap", "AJAX"
+	],
+	"description": [
+		"The SNPP Inventory was created alongside the SNPP Monitor to allow users to access available SNPP data.",
+		"This page allows for easy searches on a large collection of data and retrieves the data in a user-friendly and intuitive display.",
+		"In addition to searching on the data, the user is also able to download the data individually or in bulk with one of several download scripts."
+	]
+}
