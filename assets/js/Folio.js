@@ -171,8 +171,10 @@ FOLIO.content = function (id){
 			$("#content-container").html(FOLIO.items[self.curr_node.parent_object.type](self.curr_node));	
 		}
 		
-		$("#content-container").show(0, function(){$("#content-container").scrollTop(0)}).hide(0).delay(200).fadeIn(500);
-		$("#background").delay(200).fadeIn(500);
+		$("#background").ready(function(){
+			$("#content-container").show(0, function(){$("#content-container").scrollTop(0)}).hide(0).delay(200).fadeIn(500);
+			$("#background").delay(200).fadeIn(500);
+		});
 	});
 };
 
