@@ -414,7 +414,7 @@ body{
 	}
 	
 	.info .title{
-		font-size:20px;
+		font-size:28px;
 		overflow-x:auto;
 		padding:5px 15px;
 	}
@@ -431,6 +431,10 @@ body{
 		float:none;
 	}
 	
+	.info-container.skills-container .description-container{
+		height: calc(100vh - 130px);
+	}
+	
 	.event-label{
 		position:sticky;
 		margin:0 15px;
@@ -439,6 +443,8 @@ body{
 	
 	.work-sub-title{
 		font-size:14px;
+		padding-left:10px;
+		padding-right:15px;
 	}
 	
 	.clayton .first.name{
