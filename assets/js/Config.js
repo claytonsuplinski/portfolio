@@ -34,6 +34,7 @@ FOLIO.CONTENT = [
 			{name: "Dynamic City"},
 			{name: "FP Shooter"},
 			{name: "CNS Stacker"},
+			{name: "Music Archive"},
 			{name: "Game Selector"},
 			{name: "3D Datacenter"},
 			{name: "Moshball"},

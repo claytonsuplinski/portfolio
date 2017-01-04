@@ -9,7 +9,7 @@
 	"location": "Space Science and Engineering Center",
 	"main_skills": "Python / SQL / JavaScript",
 	"skills": [
-		"JavaScript", "Python", "SQL", "HTML5", "CSS", "jQuery", "Bootstrap", "AJAX"
+		"JavaScript", "Python", "SQL", "HTML5", "CSS", "jQuery", "Bootstrap", "AJAX", "RESTful API"
 	],
 	"description": [
 		"The XCD Monitor is a multifaceted webpage used to provide real time stats on incoming grib, point, and radar satellite data.",

@@ -9,7 +9,7 @@
 	"location": "Space Science and Engineering Center",
 	"main_skills": "Python / SQL / CSS",
 	"skills": [
-		"Python", "SQL", "CSS", "HTML5", "JavaScript", "jQuery", "Bootstrap", "AJAX"
+		"Python", "SQL", "CSS", "HTML5", "JavaScript", "jQuery", "Bootstrap", "AJAX", "RESTful API"
 	],
 	"description": [
 		"The SNPP Inventory was created alongside the SNPP Monitor to allow users to access available SNPP data.",

@@ -9,7 +9,7 @@
 	"location": "Space Science and Engineering Center",
 	"main_skills": "Python / SQL / JavaScript",
 	"skills": [
-		"Python", "SQL", "JavaScript", "HTML5", "CSS", "jQuery", "Bootstrap", "AJAX"
+		"Python", "SQL", "JavaScript", "HTML5", "CSS", "jQuery", "Bootstrap", "AJAX", "RESTful API"
 	],
 	"description": [
 		"The SNPP Monitor is a page used to visualize the real-time stats of ingested SNPP data at the SSEC.",

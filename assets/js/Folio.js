@@ -69,7 +69,7 @@ FOLIO.breadcrumbs = function (index){
 	$("#breadcrumbs-container").html("");
 	self.CONTENT.forEach(function(c, i){
 		$("#breadcrumbs-container").append(
-			'<span class="item clickable" onclick="FOLIO.breadcrumbs('+i+');FOLIO.content('+c.id+');">' + 
+			'<span class="item clickable" onclick="FOLIO.select('+c.id+');">' + 
 				'<span '+(i == index ? 'class="active"' : '')+'>'+c.name.toUpperCase()+'</span>'+
 			'</span>'
 		);
@@ -89,6 +89,7 @@ FOLIO.select = function (id){
 			if(next.id == id){
 				FOLIO.curr_node = next;
 				FOLIO.curr_category = category;
+				FOLIO.hash_url();
 				if(next.post_callback) next.post_callback();
 				return;
 			}
@@ -98,7 +99,7 @@ FOLIO.select = function (id){
 };
 
 FOLIO.child = function (category){
-	var onclick = 'onclick="FOLIO.content('+category.id+');"';
+	var onclick = 'onclick="FOLIO.select('+category.id+');"';
 	var subname = (category.subname ? '<div class="sub-name">'+category.subname.toUpperCase()+'</div>' : '');
 	var image = FOLIO.path(category)+'/menu.png';
 	if(category.parent_object.type){
@@ -253,6 +254,30 @@ FOLIO.background_path = function(item){
 	return './backgrounds/' + (names.length ? names.join('/')+'/' : '');
 };
 
+FOLIO.hash_url = function(){
+	var path = [];
+	var curr = FOLIO.curr_node;
+	while(curr){
+		path.unshift(encodeURIComponent(curr.name));
+		curr = curr.parent_object;
+	}
+	if(!(!window.location.hash && FOLIO.curr_node.id == 0)) window.location.hash = (FOLIO.curr_node.id == 0 ? '' : '#'+path.join('#'));
+};
+
+	
+FOLIO.hash_load = function(){
+	if(window.location.hash){
+		var path = window.location.hash.split('#');
+		path.shift();
+		path = path.map(function(a){ return decodeURIComponent(a); });
+		var category = FOLIO.get([path[0]]);
+		if(category) FOLIO.curr_category = category;
+		var node = FOLIO.get(path);
+		if(node) return node;
+	}
+	return false;
+};
+
 FOLIO.duration = function(event){
 	var d = event.data.duration;
 	if(d){
@@ -292,8 +317,13 @@ FOLIO.duration = function(event){
 };
 
 FOLIO.start = function(){
-	FOLIO.init();
-	FOLIO.breadcrumbs(0);
-	FOLIO.content(0);
+	var curr_node = FOLIO.hash_load();
+	FOLIO.breadcrumbs((curr_node ? FOLIO.CONTENT.indexOf(FOLIO.curr_category) : 0));
+	FOLIO.content((curr_node ? curr_node.id : 0));
 };
-FOLIO.start();
+FOLIO.init();
+setTimeout(function(){ FOLIO.start(); }, 50);
+
+window.onhashchange = function(){
+	FOLIO.start();
+};

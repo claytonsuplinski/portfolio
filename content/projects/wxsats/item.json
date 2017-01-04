@@ -1,6 +1,6 @@
 {
 	"title": "WxSatS",
-	"link": "https://qcweb.ssec.wisc.edu/wxsats/",
+	"link": "https://www.ssec.wisc.edu/datacenter/wxsats/",
 	"duration": {
 		"start": "3/8/2014",
 		"end": "PRESENT"
@@ -8,7 +8,7 @@
 	"location": "Space Science and Engineering Center",
 	"main_skills": "WebGL / JavaScript / GLSL",
 	"skills": [
-		"JavaScript", "WebGL", "GLSL", "HTML5", "CSS", "jQuery", "3ds Max", "Paint.NET", "AJAX"
+		"JavaScript", "WebGL", "GLSL", "HTML5", "CSS", "jQuery", "3ds Max", "Paint.NET", "AJAX", "RESTful API"
 	],
 	"description": [
 		"WXSATS is a WebGL-based 3D visualization of all the satellites that transmit data to the Space Science and Engineering Center.", 

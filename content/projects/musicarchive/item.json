@@ -1,0 +1,20 @@
+{
+	"title": "Music Archive",
+	"link": "https://claytonsuplinski.github.io/music_archive/",
+	"github": "https://github.com/claytonsuplinski/music_archive",
+	"duration": {
+		"start": "8/21/2016",
+		"end": "8/25/2016"
+	},
+	"location": "Independent Project",
+	"main_skills": "HTML5 / CSS / JavaScript",
+	"skills": [
+		"HTML5", "CSS", "JavaScript", "jQuery", "Bootstrap"
+	],
+	"description": [
+		"The Music Archive is a simple webpage designed to quickly search popular songs on youtube.",
+		"This project fills a personal need by providing a convenient interface for listening to songs on mobile devices.",
+		"There are several features to randomly select songs individually, in groups of five, or by artist.",
+		"Although this webpage may be simplistic, it's backend is very versatile and is capable of being used in other projects."
+	]
+}

@@ -106,7 +106,7 @@ FOLIO.items.skill = function(item){
 		'<div class="col-xs-12 description-container"><div class="col-xs-12 description">'+
 			item.events.map(function(c){
 				return '<div class="col-xs-12 col-md-6 event-container">'+
-					'<div class="col-xs-12 event-name" onclick="FOLIO.content('+c.id+');">'+c.name.toUpperCase()+'<span class="event-label">'+FOLIO.duration(c)+'</span>'+'</div>'+
+					'<div class="col-xs-12 event-name" onclick="FOLIO.select('+c.id+');">'+c.name.toUpperCase()+'<span class="event-label">'+FOLIO.duration(c)+'</span>'+'</div>'+
 				'</div>';
 			}).join('')+
 		'</div></div>'+
