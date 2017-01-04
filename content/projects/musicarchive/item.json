@@ -13,7 +13,7 @@
 	],
 	"description": [
 		"The Music Archive is a simple webpage designed to quickly search popular songs on youtube.",
-		"This project fills a personal need by providing a convenient interface for listening to songs on mobile devices.",
+		"This project fills a need by providing a convenient interface for quickly selecting songs to listen to on mobile devices.",
 		"There are several features to randomly select songs individually, in groups of five, or by artist.",
 		"Although this webpage may be simplistic, it's backend is very versatile and is capable of being used in other projects."
 	]
