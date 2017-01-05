@@ -288,6 +288,7 @@ body{
 	height:10%;
 	position:absolute;
 	bottom:0;
+	width:calc(100% - 3vw + 15px);
 }
 
 .bottomline table{
