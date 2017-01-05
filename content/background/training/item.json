@@ -1,10 +1,10 @@
 {
 	"title": "Training",
 	"events": [
+		{"name": "McIDAS-X Programming Training Workshop", "label": "November 2016"},
+		{"name": "GOES-R Readiness Training Workshop", "label": "November 2016"},
 		{"name": "NASA SPICE Training Workshop", "label": "April 2016"},
 		{"name": "Unidata Python Workshop", "label": "July 2015"},
-		{"name": "McIDAS-X Scripting in Python", "label": "June 2015"},
-		{"name": "McIDAS-X Programming Training Workshop", "label": "November 2016"},
-		{"name": "GOES-R Readiness Training Workshop", "label": "November 2016"}
+		{"name": "McIDAS-X Scripting in Python", "label": "June 2015"}
 	]
 }
