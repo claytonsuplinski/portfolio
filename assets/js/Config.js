@@ -18,8 +18,10 @@ FOLIO.CONTENT = [
 		type: "project",
 		children: [
 			{name: "WxSatS"},
+			{name: "SDS Inventory"},
 			{name: "VR Ski"},
 			{name: "Neutrino VR"},
+			{name: "MCFETCH"},
 			{name: "Akatsuki"},
 			{name: "Climate Digest"},
 			{name: "Cow Catchers"},
@@ -29,7 +31,6 @@ FOLIO.CONTENT = [
 			{name: "APFT"},
 			{name: "SNPP Monitor"},
 			{name: "SNPP Inventory"},
-			{name: "McFETCH"},
 			{name: "XCD Monitor"},
 			{name: "Dynamic City"},
 			{name: "FP Shooter"},

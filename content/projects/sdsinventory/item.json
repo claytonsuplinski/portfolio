@@ -1,0 +1,20 @@
+{
+	"title": "SDS Inventory",
+	"link": "https://inventory.ssec.wisc.edu/inventory",
+	"github": "",
+	"duration": {
+		"start": "7/13/2016",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "JavaScript / Python / SQL",
+	"skills": [
+		"HTML5", "CSS", "JavaScript", "jQuery", "Bootstrap", "Python", "SQL", "Bash"
+	],
+	"description": [
+		"The SDS Inventory is a web-based archive of all the satellite data maintained at the SSEC Satellite Data Services.",
+		"Users are able to quickly search through decades of satellite data with this convenient web interface.",
+		"With several methods of searching the inventory, users can either browse data at a glance or drill down to the exact file they need.",
+		"By working alongside MCFETCH, this webpage also allows users to easily download data via the internet."
+	]
+}
