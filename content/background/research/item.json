@@ -1,6 +1,8 @@
 {
 	"title": "Research",
 	"events": [
+		{"name": "2019 AOSS Community Poster Reception", "link": "https://www.ssec.wisc.edu/news/articles/11885"},
+		{"name": "2018 AGU Poster Session - Virtual Reality in Earth Sciences", "link": "https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/360360"},
 		{"name": "CAVE visualization of the IceCube neutrino detector", "link": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6802079&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6802079"},
 		{"name": "Virtual Reality Ski Simulator", "link": "https://blogs.discovery.wisc.edu/projects/category/projects/ski-slope-simulator/"}
 	]

@@ -1,0 +1,19 @@
+{
+	"title": "ABI Monitor",
+	"link": "https://qcweb.ssec.wisc.edu/web/abi_quality_scores/",
+	"github": "",
+	"duration": {
+		"start": "12/20/2017",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "Python / HTML5 / JavaScript",
+	"skills": [
+		"Python", "HTML5", "CSS", "JavaScript", "jQuery"
+	],
+	"description": [
+		"The ABI Monitor is a web page used for monitoring data from the ABI instrument on the satellites GOES-16 and GOES-17.",
+		"This interface is used on a daily basis for doing quality analysis and performing troubleshooting operations.",
+		"The ABI Monitor has been used by various groups at SSEC as well as several external agencies."
+	]
+}

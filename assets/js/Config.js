@@ -22,6 +22,7 @@ FOLIO.CONTENT = [
 			{name: "VR Ski"},
 			{name: "Neutrino VR"},
 			{name: "MCFETCH"},
+			{name: "Abi Monitor"},
 			{name: "Akatsuki"},
 			{name: "Climate Digest"},
 			{name: "Cow Catchers"},
@@ -70,8 +71,8 @@ FOLIO.CONTENT = [
 		width: 3,
 		type: "background",
 		children: [
-			{name: "Training"},
 			{name: "Research"},
+			{name: "Training"},
 			{name: "Leadership"},
 			{name: "Awards"} 
 		]

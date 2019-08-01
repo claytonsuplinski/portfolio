@@ -8,7 +8,7 @@
 	"location": "Space Science and Engineering Center",
 	"main_skills": "WebGL / JavaScript / GLSL",
 	"skills": [
-		"JavaScript", "WebGL", "GLSL", "HTML5", "CSS", "jQuery", "3ds Max", "Paint.NET", "AJAX", "RESTful API"
+		"JavaScript", "WebGL", "GLSL", "HTML5", "CSS", "jQuery", "3ds Max", "Paint.NET", "AJAX", "RESTful API", "WebXR"
 	],
 	"description": [
 		"WXSATS is a WebGL-based 3D visualization of all the satellites that transmit data to the Space Science and Engineering Center.", 
