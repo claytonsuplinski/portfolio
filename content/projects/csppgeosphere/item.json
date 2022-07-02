@@ -1,0 +1,18 @@
+{
+	"title": "CSPP GeoSphere",
+	"link": "https://geosphere.ssec.wisc.edu",
+	"github": "",
+	"duration": {
+		"start": "11/20/2019",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "HTML5 / CSS / JavaScript",
+	"skills": [
+		"HTML5", "CSS", "JavaScript", "jQuery"
+	],
+	"description": [
+		"CSPP GeoSphere is a web page that provides high resolution imagery from several geostationary weather satellites.",
+		"Content from this project has been featured in several publications, including news articles from NOAA and weather.com."
+	]
+}

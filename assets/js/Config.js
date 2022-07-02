@@ -17,33 +17,34 @@ FOLIO.CONTENT = [
 		width: 3,
 		type: "project",
 		children: [
-			{name: "WxSatS"},
-			{name: "SDS Inventory"},
-			{name: "VR Ski"},
-			{name: "Neutrino VR"},
-			{name: "MCFETCH"},
-			{name: "Abi Monitor"},
-			{name: "Akatsuki"},
-			{name: "Climate Digest"},
-			{name: "Cow Catchers"},
-			{name: "War Tracker"},
-			{name: "Planet Terrains"},
-			{name: "Atomic GL"},
-			{name: "APFT"},
-			{name: "SNPP Monitor"},
-			{name: "SNPP Inventory"},
-			{name: "XCD Monitor"},
-			{name: "Dynamic City"},
-			{name: "FP Shooter"},
-			{name: "CNS Stacker"},
-			{name: "Music Archive"},
-			{name: "Game Selector"},
-			{name: "3D Datacenter"},
-			{name: "Moshball"},
-			{name: "Inventory Dash"},
-			{name: "DC Search"},
-			{name: "DC Checks"},
-			{name: "Edit DC Checks"}
+			{ name: "WxSatS"          },
+			{ name: "SDS Inventory"   },
+			{ name: "Abi Monitor"     },
+			{ name: "CSPP GeoSphere"  },
+			{ name: "VR Ski"          },
+			{ name: "Neutrino VR"     },
+			{ name: "MCFETCH"         },
+			{ name: "Akatsuki"        },
+			{ name: "Climate Digest"  },
+			{ name: "Cow Catchers"    },
+			{ name: "War Tracker"     },
+			{ name: "Planet Terrains" },
+			{ name: "Atomic GL"       },
+			{ name: "APFT"            },
+			{ name: "SNPP Monitor"    },
+			{ name: "SNPP Inventory"  },
+			{ name: "XCD Monitor"     },
+			{ name: "Dynamic City"    },
+			{ name: "FP Shooter"      },
+			{ name: "CNS Stacker"     },
+			{ name: "Music Archive"   },
+			{ name: "Game Selector"   },
+			{ name: "3D Datacenter"   },
+			{ name: "Moshball"        },
+			{ name: "Inventory Dash"  },
+			{ name: "DC Search"       },
+			{ name: "DC Checks"       },
+			{ name: "Edit DC Checks"  },
 		]
 	},
 	{
@@ -51,9 +52,9 @@ FOLIO.CONTENT = [
 		width: 3,
 		type: "work",
 		children: [
-			{name: "SSEC"},
-			{name: "LEL"},
-			{name: "Bellin Health"}
+			{ name: "SSEC"          },
+			{ name: "LEL"           },
+			{ name: "Bellin Health" }
 		]
 	},
 	{
@@ -61,9 +62,9 @@ FOLIO.CONTENT = [
 		width: 1,
 		type: "education",
 		children: [
-			{name: "UW Madison"},
-			{name: "Preble"},
-			{name: "St Bernard"}
+			{ name: "UW Madison" },
+			{ name: "Preble"     },
+			{ name: "St Bernard" }
 		]
 	},
 	{
@@ -71,10 +72,10 @@ FOLIO.CONTENT = [
 		width: 3,
 		type: "background",
 		children: [
-			{name: "Research"},
-			{name: "Training"},
-			{name: "Leadership"},
-			{name: "Awards"} 
+			{ name: "Research"   },
+			{ name: "Training"   },
+			{ name: "Leadership" },
+			{ name: "Awards"     } 
 		]
 	},
 	{
