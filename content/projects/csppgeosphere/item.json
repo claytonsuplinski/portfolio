@@ -7,9 +7,9 @@
 		"end": "PRESENT"
 	},
 	"location": "Space Science and Engineering Center",
-	"main_skills": "HTML5 / CSS / JavaScript",
+	"main_skills": "HTML / CSS / JavaScript",
 	"skills": [
-		"HTML5", "CSS", "JavaScript", "jQuery"
+		"HTML", "CSS", "JavaScript", "jQuery"
 	],
 	"description": [
 		"CSPP GeoSphere is a web page that provides high resolution imagery from several geostationary weather satellites.",

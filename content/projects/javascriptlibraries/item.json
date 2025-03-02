@@ -1,0 +1,19 @@
+{
+	"title": "JavaScript Libraries",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "11/6/2019",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "JavaScript",
+	"skills": [
+		"JavaScript"
+	],
+	"description": [
+		"Dozens of modular JavaScript libraries I created for assorted web-based tasks.",
+		"Used throughout a lot of web pages I maintain; to help re-use code and provide consistency and stability.",
+		"Examples of tasks these libraries are used for: keyboard shortcuts, custom right-click menus, 3D rendering with WebGL, speech interpretation, editing JSON, calculating satellite positions, etc..."
+	]
+}

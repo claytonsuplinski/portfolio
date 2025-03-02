@@ -1,0 +1,19 @@
+{
+	"title": "SDS Data Statuses",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "10/9/2018",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "HTML / CSS / JavaScript",
+	"skills": [
+		"HTML", "CSS", "JavaScript", "jQuery", "Python", "AJAX", "SQL", "RESTful API", "Bash"
+	],
+	"description": [
+		"SDS Data Statuses is a web page that was written to automate and simplify quality control checks for the SSEC Data Center.",
+		"This page provides a hierarchy of content that allows all active problems to be viewed at a glance and more detailed information to be easily accessed with a few clicks.",
+		"The back-end API for this page collects stats from dozens of machines and conducts thousands of automated checks."
+	]
+}

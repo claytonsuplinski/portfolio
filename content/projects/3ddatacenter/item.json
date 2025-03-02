@@ -9,7 +9,7 @@
 	"location": "Space Science and Engineering Center",
 	"main_skills": "WebGL / Three.JS / JavaScript",
 	"skills": [
-		"WebGL", "Three.JS", "JavaScript", "jQuery", "HTML5", "CSS"
+		"WebGL", "Three.JS", "JavaScript", "jQuery", "HTML", "CSS"
 	],
 	"description": [
 		"This WebGL project was developed as a quick reference utility at the Data Center.",

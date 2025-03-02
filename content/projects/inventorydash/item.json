@@ -9,7 +9,7 @@
 	"location": "Space Science and Engineering Center",
 	"main_skills": "Python / SQL / JavaScript",
 	"skills": [
-		"Python", "SQL", "JavaScript", "HTML5", "CSS", "jQuery", "AJAX", "Bootstrap"
+		"Python", "SQL", "JavaScript", "HTML", "CSS", "jQuery", "AJAX", "Bootstrap"
 	],
 	"description": [
 		"The Inventory Dashboard is a webpage designed to manage the satellite inventory at the SSEC.",

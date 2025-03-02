@@ -7,9 +7,9 @@
 		"end": "8/1/2015"
 	},
 	"location": "Independent Project",
-	"main_skills": "HTML5 / CSS / Google API",
+	"main_skills": "HTML / CSS / Google API",
 	"skills": [
-		"HTML5", "CSS", "Google API", "JavaScript", "jQuery", "AJAX", "Bootstrap"
+		"HTML", "CSS", "Google API", "JavaScript", "jQuery", "AJAX", "Bootstrap"
 	],
 	"description": [
 		"The CNS Depression Stacker is a simple utility for tracking medications of patients in a hospital.",

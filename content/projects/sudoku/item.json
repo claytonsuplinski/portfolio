@@ -1,0 +1,18 @@
+{
+	"title": "Sudoku",
+	"link": "https://claytonsuplinski.github.io/sudoku/",
+	"github": "https://github.com/claytonsuplinski/sudoku",
+	"duration": {
+		"start": "2/8/2025",
+		"end": "2/9/2025"
+	},
+	"location": "Independent Project",
+	"main_skills": "HTML / CSS / JavaScript",
+	"skills": [
+		"HTML", "CSS", "JavaScript"
+	],
+	"description": [
+		"A simple sudoku game.",
+		"I made this so I could play sudoku without advertisements on my phone during some long plane rides."
+	]
+}

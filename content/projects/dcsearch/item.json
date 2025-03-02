@@ -7,9 +7,9 @@
 		"end": "7/16/2015"
 	},
 	"location": "Space Science and Engineering Center",
-	"main_skills": "HTML5 / CSS / jQuery",
+	"main_skills": "HTML / CSS / jQuery",
 	"skills": [
-		"HTML5", "CSS", "JavaScript", "jQuery", "AJAX"
+		"HTML", "CSS", "JavaScript", "jQuery", "AJAX"
 	],
 	"description": [
 		"DC Search is a simple, but useful utility that essentially turned into a search engine for the Data Center.",

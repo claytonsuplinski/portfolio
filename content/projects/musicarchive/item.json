@@ -7,9 +7,9 @@
 		"end": "8/25/2016"
 	},
 	"location": "Independent Project",
-	"main_skills": "HTML5 / CSS / JavaScript",
+	"main_skills": "HTML / CSS / JavaScript",
 	"skills": [
-		"HTML5", "CSS", "JavaScript", "jQuery", "Bootstrap"
+		"HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"
 	],
 	"description": [
 		"The Music Archive is a simple webpage designed to quickly search popular songs on youtube.",

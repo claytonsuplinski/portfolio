@@ -9,7 +9,7 @@
 	"location": "Independent Project",
 	"main_skills": "WebGL / JavaScript / GLSL",
 	"skills": [
-		"JavaScript", "WebGL", "GLSL", "HTML5", "CSS", "jQuery", "3ds Max", "Bootstrap", "Paint.NET"
+		"JavaScript", "WebGL", "GLSL", "HTML", "CSS", "jQuery", "3ds Max", "Bootstrap", "Paint.NET"
 	],
 	"description": [
 		"The War Zone Tracker is an interactive 3D webpage for observing where battles took place throughout various wars in world history.",

@@ -1,0 +1,19 @@
+{
+	"title": "SDS Machines",
+	"link": "",
+	"github": "",
+	"duration": {
+		"start": "4/21/2022",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "Python / SQL / JavaScript",
+	"skills": [
+		"HTML", "CSS", "JavaScript", "jQuery", "Python", "AJAX", "SQL", "RESTful API", "Bash"
+	],
+	"description": [
+		"This web page provides statistics and keeps track of information about all the machines in the SSEC Data Center.",
+		"Current and historical stats are collected in SQLite databases.",
+		"The back-end API for this page is the same one that is used for the SDS Data Statuses page."
+	]
+}

@@ -7,9 +7,9 @@
 		"end": "PRESENT"
 	},
 	"location": "Space Science and Engineering Center",
-	"main_skills": "HTML5 / CSS / jQuery",
+	"main_skills": "HTML / CSS / jQuery",
 	"skills": [
-		"HTML5", "CSS", "JavaScript", "jQuery", "Bootstrap"
+		"HTML", "CSS", "JavaScript", "jQuery", "Bootstrap"
 	],
 	"description": [
 		"MCFETCH is a web-based solution to easily and effectively access satellite data.",

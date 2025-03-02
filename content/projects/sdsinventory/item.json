@@ -9,7 +9,7 @@
 	"location": "Space Science and Engineering Center",
 	"main_skills": "JavaScript / Python / SQL",
 	"skills": [
-		"HTML5", "CSS", "JavaScript", "jQuery", "Bootstrap", "Python", "SQL", "Bash"
+		"HTML", "CSS", "JavaScript", "jQuery", "Bootstrap", "Python", "SQL", "Bash"
 	],
 	"description": [
 		"The SDS Inventory is a web-based archive of all the satellite data maintained at the SSEC Satellite Data Services.",

@@ -1,0 +1,18 @@
+{
+	"title": "AMQP Monitor",
+	"link": "https://qcweb.ssec.wisc.edu/web/amqp_monitor/",
+	"github": "",
+	"duration": {
+		"start": "8/21/2020",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "Python / SQL / JavaScript",
+	"skills": [
+		"HTML", "CSS", "JavaScript", "jQuery", "Python", "AJAX", "SQL", "RESTful API", "Bash"
+	],
+	"description": [
+		"The AMQP Monitor collects and displays stats from RabbitMQ messages.",
+		"This page stores stats from millions of messages per day in a MySQL database."
+	]
+}

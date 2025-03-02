@@ -9,7 +9,7 @@
 	"location": "Independent Project",
 	"main_skills": "WebGL / JavaScript / Bootstrap",
 	"skills": [
-		"WebGL", "JavaScript", "Bootstrap", "HTML5", "CSS", "jQuery", "C++"
+		"WebGL", "JavaScript", "Bootstrap", "HTML", "CSS", "jQuery", "C++"
 	],
 	"description": [
 		"Planetary Terrains is a 3D WebGL page to illustrate the variations in terrains of several planets and moons in the Solar System.",

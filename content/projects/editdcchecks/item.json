@@ -9,7 +9,7 @@
 	"location": "Space Science and Engineering Center",
 	"main_skills": "Angular / Bootstrap / Python",
 	"skills": [
-		"Angular", "Bootstrap", "Python", "JavaScript", "HTML5", "CSS", "jQuery", "AJAX"
+		"Angular", "Bootstrap", "Python", "JavaScript", "HTML", "CSS", "jQuery", "AJAX"
 	],
 	"description": [
 		"This webpage was designed to easily maintain and update the checks performed hourly at the Data Center.",

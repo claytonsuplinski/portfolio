@@ -7,12 +7,12 @@
 		"end": "PRESENT"
 	},
 	"location": "Space Science and Engineering Center",
-	"main_skills": "Python / HTML5 / JavaScript",
+	"main_skills": "Python / HTML / JavaScript",
 	"skills": [
-		"Python", "HTML5", "CSS", "JavaScript", "jQuery"
+		"Python", "HTML", "CSS", "JavaScript", "jQuery"
 	],
 	"description": [
-		"The ABI Monitor is a web page used for monitoring data from the ABI instrument on the satellites GOES-16 and GOES-17.",
+		"The ABI Monitor is a web page used for monitoring data from the ABI instrument on the satellites GOES-16, GOES-17, GOES-18, and GOES-19.",
 		"This interface is used on a daily basis for doing quality analysis and performing troubleshooting operations.",
 		"The ABI Monitor has been used by various groups at SSEC as well as several external agencies."
 	]

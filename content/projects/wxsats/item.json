@@ -8,7 +8,7 @@
 	"location": "Space Science and Engineering Center",
 	"main_skills": "WebGL / JavaScript / GLSL",
 	"skills": [
-		"JavaScript", "WebGL", "GLSL", "HTML5", "CSS", "jQuery", "3ds Max", "Paint.NET", "AJAX", "RESTful API", "WebXR"
+		"JavaScript", "WebGL", "GLSL", "HTML", "CSS", "jQuery", "Blender", "Paint.NET", "AJAX", "RESTful API", "WebXR"
 	],
 	"description": [
 		"WXSATS is a web-based 3-D interactive visualization of weather satellites, the Earth, and concepts in satellite meteorology.", 

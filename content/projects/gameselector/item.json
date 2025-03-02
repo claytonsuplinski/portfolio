@@ -7,9 +7,9 @@
 		"end": "8/15/2015"
 	},
 	"location": "Independent Project",
-	"main_skills": "Bootstrap / JavaScript / HTML5",
+	"main_skills": "Bootstrap / JavaScript / HTML",
 	"skills": [
-		"Bootstrap", "JavaScript", "HTML5", "CSS", "jQuery"
+		"Bootstrap", "JavaScript", "HTML", "CSS", "jQuery"
 	],
 	"description": [
 		"The Football Game Selector is a mobile-friendly webpage designed to allow the user to pick who they think will win each football game throughout the season and make their pick for the championship.",

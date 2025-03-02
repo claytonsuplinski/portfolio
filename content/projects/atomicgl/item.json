@@ -7,9 +7,9 @@
 		"end": "9/16/2015"
 	},
 	"location": "Independent Project",
-	"main_skills": "WebGL / JavaScript / HTML5",
+	"main_skills": "WebGL / JavaScript / HTML",
 	"skills": [
-		"WebGL", "JavaScript", "HTML5", "CSS", "jQuery", "Bootstrap"
+		"WebGL", "JavaScript", "HTML", "CSS", "jQuery", "Bootstrap"
 	],
 	"description": [
 		"AtomicGL is a webpage designed to show what various atoms from the periodic table look like in an interactive 3D space.",
