@@ -1,0 +1,19 @@
+{
+	"title": "AMRC Antarctica Simulation",
+	"link": "https://amrdc.ssec.wisc.edu/web_products/antarctica_simulation/",
+	"duration": {
+		"start": "1/27/2023",
+		"end": "5/31/2025"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "WebGL / JavaScript / GLSL",
+	"skills": [
+		"JavaScript", "WebGL", "GLSL", "HTML", "CSS", "jQuery", "Blender", "Paint.NET", "AJAX", "RESTful API", "WebXR"
+	],
+	"description": [
+		"The AMRC (Antarctic Meteorological Research Center) Antarctica Simulation is a web-based 3-D interactive visualization of automated weather stations in Antarctica.",
+		"This project features several dozen stations with custom instrument configurations that are representative of the real stations.",
+		"Terrain from across the entire continent of Antarctica is included in the surroundings for each station.",
+		"This visualization has been used in classes at Madison College along with several outreach events at SSEC."
+	]
+}

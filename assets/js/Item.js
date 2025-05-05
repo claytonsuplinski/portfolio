@@ -31,7 +31,7 @@ FOLIO.items.description = function(description){
 FOLIO.items.project = function(item){
 	$("#content-container").addClass("content-horizontal");
 	var data = item.data;
-	var item_buttons = '<div class="item-button-container" '+(data.github ? '' : 'style="height:100%;"')+' ><a href="'+data.link+'"><div class="col-xs-12 item-button">LINK</div></a></div>'+
+	var item_buttons = ( data.link ? '<div class="item-button-container" '+(data.github ? '' : 'style="height:100%;"')+' ><a href="'+data.link+'"><div class="col-xs-12 item-button">LINK</div></a></div>' : '' ) +
 		(data.github ? '<div class="item-button-container"><a href="'+data.github+'"><div class="col-xs-12 item-button">GITHUB</div></a></div>' : '');
 	return this.image_container(item)+
 			'<div class="col-xs-12 col-md-9 info-container">'+
