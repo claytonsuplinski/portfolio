@@ -1,0 +1,19 @@
+{
+	"title": "SDS Notifications",
+	"link": "https://qcweb.ssec.wisc.edu/web/notifications/",
+	"github": "",
+	"duration": {
+		"start": "11/18/2024",
+		"end": "PRESENT"
+	},
+	"location": "Space Science and Engineering Center",
+	"main_skills": "HTML / JavaScript / Python",
+	"skills": [
+		"HTML", "CSS", "JavaScript", "jQuery", "Python", "SQL"
+	],
+	"description": [
+		"The SDS Notifications web page is a resource for users to view alerts about datasets managed by Satellite Data Services.",
+		"SDS staff can create and manage notifications through the web interface.",
+		"E-mails can be automatically sent to subscribed users when notifications are created or updated."
+	]
+}

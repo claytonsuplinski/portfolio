@@ -22,6 +22,7 @@ FOLIO.CONTENT = [
 			{ name: "ABI Monitor"           },
 			{ name: "SDS Inventory"         },
 			{ name: "CSPP GeoSphere"        },
+			{ name: "SDS Notifications"     },
 			{ name: "SDS Data Statuses"     },
 			{ name: "SDS Machines"          },
 			{ name: "McFETCH"               },
