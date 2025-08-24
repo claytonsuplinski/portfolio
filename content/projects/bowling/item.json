@@ -1,0 +1,19 @@
+{
+	"title": "Bowling",
+	"link": "https://claytonsuplinski.github.io/bowling/",
+	"github": "https://github.com/claytonsuplinski/bowling",
+	"duration": {
+		"start": "7/1/2025",
+		"end": "7/31/2025"
+	},
+	"location": "Independent Project",
+	"main_skills": "WebGL / JavaScript / HTML",
+	"skills": [
+		"HTML", "CSS", "JavaScript", "WebGL"
+	],
+	"description": [
+		"A simple bowling game.",
+		"I made this project to test my WebGL JavaScript library.",
+		"This game is playable on my phone and is nice for helping to pass the time."
+	]
+}

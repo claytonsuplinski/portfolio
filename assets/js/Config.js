@@ -31,6 +31,7 @@ FOLIO.CONTENT = [
 			{ name: "VR Ski"                },
 			{ name: "Neutrino VR"           },
 			{ name: "Climate Digest"        },
+			{ name: "Bowling"               },
 			{ name: "Akatsuki"              },
 			{ name: "Cow Catchers"          },
 			{ name: "War Tracker"           },
